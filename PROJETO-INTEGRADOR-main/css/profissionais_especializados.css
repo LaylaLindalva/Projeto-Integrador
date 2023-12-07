@@ -1,0 +1,92 @@
+body{
+    background-color: #fff;
+}
+
+.titulo{
+    text-align: center;
+    padding: 40px;
+}
+
+.container{
+    width: 1500px;
+    height: 900px;
+    background-color: #B5E9CA;
+}
+
+.conteudo1{
+    padding: 20px;
+}
+
+.conteudo2{
+    padding: 20px;
+}
+
+.conteudo3{
+    padding: 20px;
+}
+
+.cuidadora1{
+    width: 115px;
+    height: 100px;
+    margin-left: 400px;
+    padding: 40px;
+}
+
+.cuidadora2{
+    width: 121px;
+    height: 113px;
+    margin-left: 400px;
+    padding: 50px;
+}
+
+.cuidadora3{
+    width: 121px;
+    height: 113px;
+    margin-left: 400px;
+    padding: 50px;
+}
+
+.container1{
+    display: flex;
+}
+
+.container2{
+    display: flex;
+}
+
+.container3{
+    display: flex;
+}
+
+.digiteaqui{
+    width: 600px;
+    height: 25px;
+    border-radius: 15px;
+    margin-left: 450px;
+    margin-bottom: 30px;
+}
+
+.lorem1{
+    text-align: left;
+    margin: 0;
+    padding: 2px;
+    margin-right: 500px;
+    margin-block-end: auto;
+}
+
+.lorem2{
+    text-align: left;
+    margin: 0;
+    padding: 2px;
+    margin-right: 500px;
+    margin-block-end: auto;
+}
+
+.lorem3{
+    text-align: left;
+    margin: 0;
+    padding: 2px;
+    margin-right: 500px;
+    margin-block-end: auto;
+}
+
